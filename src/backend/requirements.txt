@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+httpx           # For external API calls (like Microsoft Graph)
+python-dotenv   # For environment variables
+psycopg2-binary # If you're using PostgreSQL (optional)
