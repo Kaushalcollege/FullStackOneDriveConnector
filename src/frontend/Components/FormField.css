@@ -1,0 +1,18 @@
+.input-field {
+  width: 292px;
+  height: 24px;
+  border-radius: 8px;
+  padding: 10px 14px;
+  gap: 8px;
+  box-shadow: 0px 1px 2px 0px #1018280d;
+  border: 1px solid #d0d5dd;
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0%;
+}
+.input-field:focus-visible {
+  border: 1px solid black !important;
+  outline: none !important;
+}
